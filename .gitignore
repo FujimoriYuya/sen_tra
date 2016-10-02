@@ -1,0 +1,5 @@
+# vendor フォルダは要らない
+vendor/
+
+# composer.phar　ファイルはいらない
+composer.phar
